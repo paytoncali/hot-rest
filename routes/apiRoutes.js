@@ -1,4 +1,3 @@
-const { table } = require('node:console');
 const tableData = require('../data/reservation');
 const waitlistData = require('../data/waitlist');
 
